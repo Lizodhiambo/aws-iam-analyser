@@ -81,7 +81,7 @@ Findings mapped to:
 
 \- \[x] Phase 1 — AWS connection and IAM inventory
 
-\- \[ ] Phase 2 — Misconfiguration scanning
+\- \[x] Phase 2 — Misconfiguration scanning
 
 \- \[ ] Phase 3 — Reporting with severity levels
 
