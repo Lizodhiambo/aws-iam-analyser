@@ -83,7 +83,7 @@ Findings mapped to:
 
 \- \[x] Phase 2 — Misconfiguration scanning
 
-\- \[ ] Phase 3 — Reporting with severity levels
+\- \[x] Phase 3 — Reporting with severity levels
 
 \- \[ ] Phase 4 — Privilege escalation detection
 
