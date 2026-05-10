@@ -85,7 +85,7 @@ Findings mapped to:
 
 \- \[x] Phase 3 — Reporting with severity levels
 
-\- \[ ] Phase 4 — Privilege escalation detection
+\- \[x] Phase 4 — Privilege escalation detection
 
 =======
 # aws-iam-analyser
